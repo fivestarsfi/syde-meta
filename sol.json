@@ -1,7 +1,7 @@
 {
   "name": "sySolana",
   "description": "syde sol synt",
-  "image": "https://cryptologos.cc/logos/solana-sol-logo.png?v=035",
+  "image": "https://raw.githubusercontent.com/fivestarsfi/syde-meta/refs/heads/main/sol.png",
   "symbol": "sySOL",
   "decimals": 9
 }
