@@ -2,6 +2,6 @@
   "name": "syUsdt",
   "description": "syde usdt synt",
   "image": "https://raw.githubusercontent.com/fivestarsfi/syde-meta/refs/heads/main/usd.png",
-  "symbol": "syUSD",
+  "symbol": "syUSDT",
   "decimals": 9
 }
