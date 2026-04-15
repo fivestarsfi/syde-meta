@@ -1,0 +1,7 @@
+{
+  "name": "syBtcUsdt",
+  "description": "syde btc-usdt synt",
+  "image": "https://raw.githubusercontent.com/fivestarsfi/syde-meta/refs/heads/main/btc.png",
+  "symbol": "syBTCUSDT",
+  "decimals": 9
+}
