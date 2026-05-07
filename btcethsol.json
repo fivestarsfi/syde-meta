@@ -1,0 +1,7 @@
+{
+  "name": "syBTCETHSOL",
+  "description": "syde etf btcethsol synt",
+  "image": "https://raw.githubusercontent.com/fivestarsfi/syde-meta/refs/heads/main/btc.png",
+  "symbol": "syBTCETHSOL",
+  "decimals": 9
+}
